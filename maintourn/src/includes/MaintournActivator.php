@@ -1,5 +1,7 @@
 <?php
 
+namespace Maintourn\inlcudes;
+
 /**
  * Fired during plugin activation
  *
@@ -20,7 +22,7 @@
  * @subpackage Maintourn/includes
  * @author     Your Name <email@example.com>
  */
-class Maintourn_Activator
+class MaintournActivator
 {
 
 	const DB_PLUGIN_PREFIX = "maintourn_";

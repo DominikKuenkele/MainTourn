@@ -1,5 +1,7 @@
 <?php
 
+namespace Maintourn\inlcudes;
+
 /**
  * Fired during plugin deactivation
  *
@@ -20,7 +22,7 @@
  * @subpackage Maintourn/includes
  * @author     Your Name <email@example.com>
  */
-class Maintourn_Deactivator {
+class MaintournDeactivator {
 
 	/**
 	 * Short Description. (use period)
